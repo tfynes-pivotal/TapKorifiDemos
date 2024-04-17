@@ -1,6 +1,0 @@
----
-applications:
-  - name: r2
-    path: ./target/r2-0.0.1-SNAPSHOT.jar
-    services:
-      - rmq1
